@@ -1,0 +1,20 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs e arquivos gerados pelo OpenSim
+*.log
+grf_caminho_completo.xml
+
+# Imagens de resultado
+*.png
+
+# Editor / sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
